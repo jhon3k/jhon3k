@@ -1,12 +1,9 @@
 ### Olá! me chamo jhon 👋
-Este repositório é onde eu crio projetos,
-mas são para teste, aqui nos links ao lado vai tá o meu
-repositório profissional com projetos inteiramente
-concluídos.
+Este é o espaço onde coloco meus projetos em prática e compartilho minhas experiências como desenvolvedor.
 
-- 🌱 no momento estou aprendendo Vue.js
-- 👯 estou querendo colaborar com meus conhecimentos em front-end
-- 💬 Pergunte-me qualquer coisa, estou disposto a qualquer conversa
+- 🌱 no momento estou aprendendo Java
+- 👯 estou em constante aprendizado para colaborar com meus conhecimentos em front-end
+- 💬 Pergunte-me qualquer coisa, estou disposto a qualquer bate-papo
 - 📫 Como chegar até mim: email: jhonfeitosadev@gmail.com | Whatsapp: +55 (93) 99213-3631
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhon3k&hide=contribs,prs&show_icons=true&theme=tokyonight)
